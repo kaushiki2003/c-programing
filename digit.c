@@ -1,6 +1,6 @@
 #include<stdio.h>
 //program to check given character is digit or not//
-void main()
+int main()
 {
     char ch;
     printf("enter character");
@@ -13,5 +13,6 @@ void main()
     {
     printf("character is not digit ");
     }
+    return o;
 
 }
