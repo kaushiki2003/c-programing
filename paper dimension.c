@@ -3,7 +3,7 @@ int main()
 {
     int a,b,c;
     printf("\nenter the dimension:");
-    scanf("%d %d",&a,&b); 
+    scanf("%d %d",&a,%b); 
     int i,n;
     printf("enter number of sheet you want\n:");
     scanf("%d",&n);
